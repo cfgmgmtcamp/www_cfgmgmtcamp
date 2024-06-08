@@ -2,12 +2,14 @@
 
 HUGO=hugo-extended
 
-.PHONY: build serve draft clean
+.PHONY: build netlify serve draft clean
 
-all: build
+all: build compress
 
 build:
-	$(HUGO) --environment=production --minify
+	$(HUGO) --environment=production --minify --enableGitInfo --forceSyncStatic
+
+compress:
 	@rm -rf public/feed.xml
 	@find public/*/posts/ -name 'feed.xml' -exec sh -c "cat {} >> public/feed.xml" \;
 	@find public/ -name '*.html' ! -name '*.gz' -type f -exec sh -c "gzip -c -9 < {} > {}.gz" \;
@@ -40,7 +42,7 @@ draft:
 	$(HUGO) --minify --buildDrafts --buildFuture --buildExpired
 
 serve:
-	$(HUGO) server --environment=development --noHTTPCache --disableFastRender
+	$(HUGO) server --environment=development --noHTTPCache --disableFastRender --forceSyncStatic --enableGitInfo --renderToMemory
 
 servedraft:
 	$(HUGO) server --environment=development --buildFuture --buildExpired --noHTTPCache --disableFastRender
