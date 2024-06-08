@@ -16,7 +16,8 @@ enableGitInfo = true
 enableRobotsTXT = true
 
 [outputs]
-	section = [ "HTML", "Calendar", "RSS" ]
+#	section = [ "HTML", "Calendar", "RSS" ]
+	section = [ "HTML", "JSON" , "RSS" ]
 
 [outputFormats]
 [outputFormats.RSS]
