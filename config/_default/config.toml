@@ -1,6 +1,6 @@
 ### config.toml
 title = "CfgMgmtCamp"
-baseURL = "https://cfgmgmtcamp.eu/"
+baseURL = "https://cfgmgmtcamp.org"
 theme = "cfgmgmtcamp"
 languageCode = "ghent2024"
 defaultContentLanguage = "ghent2024"
