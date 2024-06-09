@@ -1,0 +1,21 @@
+{{- $.Scratch.Add "index" slice -}}
+{{- $.Scratch.Add "groups" slice -}}
+{{- range .Data.Pages -}}
+{{ $imageurl := "" }}
+{{ if .Param "image" }}
+{{ $imagesize := "500x500" }}
+{{ $imagename := .Param "image" }}
+{{ $imagelocation := (printf "%s/%s" "images/sponsors/" $imagename) }}
+{{ $imageresource := resources.Get $imagelocation }}
+{{ $imageoptions := (printf "%s png" $imagesize) }}
+{{ $image := $imageresource.Fit $imageoptions }}
+{{ $imageurl = $image.Permalink }}
+{{ end }}
+{{- $.Scratch.Add "index" (dict
+"title" .Title
+"link" .Params.link
+"imageurl" $imageurl
+"level" .Params.level
+) }}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}
