@@ -1,12 +1,12 @@
 ---
 title: "Previous CfgMgmtCamp Events"
-date: 2022-09-27
+date: 2024-06-09
 draft: false
 ---
 
 An overview of the past events :
 
-- CfgMgmtCamp 2023 Ghent : [https://cfgmgmtcamp.eu/ghent2020](https://cfgmgmtcamp.eu/ghent2023)
+- CfgMgmtCamp 2023 Ghent : [https://cfgmgmtcamp.eu/ghent2023](https://cfgmgmtcamp.eu/ghent2023)
 - CfgMgmtCamp 2020 Ghent : [https://cfgmgmtcamp.eu/ghent2020](https://cfgmgmtcamp.eu/ghent2020)
 - CfgMgmtCamp 2019 Ghent : [https://cfgmgmtcamp.eu/ghent2019](https://cfgmgmtcamp.eu/ghent2019)
 - CfgMgmtCamp 2018 Ghent : [https://archive.cfgmgmtcamp.eu/](https://archive.cfgmgmtcamp.eu/)
