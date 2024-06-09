@@ -2,12 +2,12 @@
 
 HUGO=hugo-extended
 
-.PHONY: build netlify serve draft clean
+.PHONY: build netlify serve draft clean debug
 
 all: build compress
 
 build:
-	$(HUGO) --environment=production --minify --enableGitInfo --forceSyncStatic
+	$(HUGO) --environment=production --minify --enableGitInfo --forceSyncStatic --templateMetrics
 
 compress:
 	@rm -rf public/feed.xml
@@ -32,17 +32,20 @@ qrcode:
 netlify:
 	$(MAKE) HUGO=hugo build
 
+debug:
+	$(HUGO) --environment=development --minify --enableGitInfo --forceSyncStatic --debug --logLevel debug --templateMetrics --templateMetricsHints
+
 travis:
 	$(MAKE) HUGO=./hugo build
 
 test:
-	$(HUGO) --environment=development --minify
+	$(HUGO) --environment=development --minify --enableGitInfo --forceSyncStatic --templateMetrics --templateMetricsHints --verbose
 
 draft:
 	$(HUGO) --minify --buildDrafts --buildFuture --buildExpired
 
 serve:
-	$(HUGO) server --environment=development --noHTTPCache --disableFastRender --forceSyncStatic --enableGitInfo --renderToMemory
+	$(HUGO) server --environment=development --watch --noHTTPCache --disableFastRender --forceSyncStatic --enableGitInfo --renderToMemory --templateMetrics --templateMetricsHints
 
 servedraft:
 	$(HUGO) server --environment=development --buildFuture --buildExpired --noHTTPCache --disableFastRender
