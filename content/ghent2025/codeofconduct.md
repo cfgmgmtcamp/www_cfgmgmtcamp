@@ -27,12 +27,6 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 Event staff will be happy to help participants address concerns. All reports will be treated as confidential. We strongly encourage you to address your issues privately with any of our staff members who are organizing the event. We encourage you to avoid disclosing information about the incident until the staff have had sufficient time in which to address the situation. Please also keep in mind that public shaming can be counter-productive to building a strong community. We do not condone nor participate in such actions.
 
-If you cannot find a member of the event staff or are not comfortable contacting one of the staff, you can alternatively contact any of the people listed below.
-
-- Kris Buytaert - Kris.Buytaert at inuits.eu, @krisbuytaert
-
-All organizers can be reached at cfgmgmtcamp-team at lists.inuits.eu
-
 We expect all participants to follow these rules at all event venues and related social events.
 
 Thank you for helping make this a welcoming, friendly event for all.
