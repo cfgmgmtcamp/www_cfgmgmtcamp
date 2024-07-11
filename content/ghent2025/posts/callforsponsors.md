@@ -1,11 +1,11 @@
 ---
-title: "CfgMgmtCamp 2024 is looking for sponsors"
-date: 2023-09-29
-draft: true
+title: "CfgMgmtCamp 2025 is looking for sponsors"
+date: 2024-07-11
+draft: false
 ---
 
-We are looking for sponsors for this 10th year anniversary of CfgMgmtCamp.  
+We are looking for sponsors for CfgMgmtCamp 2025.  
 
 As a sponsor you make it possible for use to organize this event and keep it going.  
 
-Please take a look on our sponsor page __[HERE](/ghent2024/sponsors/)__
+Please take a look on our sponsor page __[HERE](/ghent2025/sponsors/)__
