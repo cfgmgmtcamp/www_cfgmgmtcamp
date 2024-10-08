@@ -31,7 +31,7 @@
 #	url = "/ghent2025/schedule/"
 #	weight = -600
 #[[navbar]]
-#	name = "Soocial"
+#	name = "Social"
 #	identifier = "social"
 #	url = "/ghent2025/social/"
 #	weight = -400
