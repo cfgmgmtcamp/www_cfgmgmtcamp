@@ -1,0 +1,7 @@
+{{ $iframeurl := .Get "url" }}
+<object data="{{ $iframeurl }}" width="600" height="400">
+    <embed src="{{ $iframeurl }}" width="600" height="400"> </embed>
+    Error: Embedded data could not be displayed.
+</object>
+
+
