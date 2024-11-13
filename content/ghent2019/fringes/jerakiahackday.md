@@ -1,6 +1,6 @@
 ---
 title: "Jerakia Day"
-date: 2018-15-01
+date: 2018-01-15
 eventdate: "6th February 2019"
 draft: false
 ---
