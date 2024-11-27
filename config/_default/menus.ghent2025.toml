@@ -51,6 +51,11 @@
 	url = "/ghent2025/codeofconduct/"
 	weight = -300
 [[navbar]]
+	name = "Online Shop"
+	identifier = "shop"
+	url = "https://shop.cfgmgmtcamp.org/"
+	weight = -200
+[[navbar]]
 	name = "Past"
 	identifier = "past"
 	url = "/ghent2025/past/"
