@@ -34,8 +34,8 @@ logistical friction, so that you can focus on learning.
     1. **Coming from Fosdem**
 
         If you’re coming from Fosdem and are traveling light, then you may be interested
-        in carpooling instead of the train. Please reach out to Kris Buytaert for more
-        information and coordination.
+        in carpooling instead of the train. Please reach out to us on the different social media accounts 
+        for more information and coordination.  Typically we would  meet at the H. Building info booth around 16:30
 
 1. **Where to stay**
 
@@ -106,7 +106,7 @@ logistical friction, so that you can focus on learning.
 
     1. **Swag pickup**
 
-        Walter will have to do this section 😀
+        Preordered swag can be picked up from Walter before the opening keynote. 
 
     1. **Front and back entrances to the main stage**
 
