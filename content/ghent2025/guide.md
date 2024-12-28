@@ -31,11 +31,11 @@ logistical friction, so that you can focus on learning.
     Do not assume that you can stay in Brussels and commute to Ghent. You’ll spend a
     lot of time on the train and you’ll miss all the social events.
 
-    1. **Coming from Fosdem**
+1. **Coming from Fosdem**
 
-        If you’re coming from Fosdem and are traveling light, then you may be interested
-        in carpooling instead of the train. Please reach out to us on the different social media accounts 
-        for more information and coordination.  Typically we would  meet at the H. Building info booth around 16:30
+    If you’re coming from Fosdem and are traveling light, then you may be interested
+    in carpooling instead of the train. Please reach out to us on the different social media accounts 
+    for more information and coordination.  Typically we would  meet at the H. Building info booth around 16:30
 
 1. **Where to stay**
 
