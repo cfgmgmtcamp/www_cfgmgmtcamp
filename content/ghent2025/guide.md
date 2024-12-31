@@ -145,9 +145,9 @@ counter in the lobby.
  logistics and scheduling, ask for ***Toshaan*** or ***Kris***. For venue and room questions
  ask for ***Bert***. Otherwise just ask if anyone has seen a coordinator.
 
-## After the talks
+# After the talks
 
-### The official social event
+## The official social event
 
 There is a social event Monday night after the conference directly across the
 street at [the Zone](https://www.thezone.be/the-zone-cafe/). Before you leave
@@ -155,7 +155,7 @@ the conference, you should get a wristband. Many of the vendor booths will be
 handing them out but there will also be folks wandering around with them. This
 wristband will buy your drinks.
 
-### Peer networking and nightlife
+## Peer networking and nightlife
 
 Ghent is a wonderful place with [a rich nightlife](https://visit.gent.be/en/eat-drink).
 Make some friends and have dinner or meet for drinks. Some of the conference favorites include
@@ -168,7 +168,7 @@ Make some friends and have dinner or meet for drinks. Some of the conference fav
  * Amadeus rib house. Note that there are two, make sure you know which one you’re meeting at!
  * [Lots and lots more](https://visit.gent.be/en/eat-drink)!
 
-## The fringe workshops
+# The fringe workshops
 
 The third day of the conference is not centrally organized. Instead, different
 groups use the space to run their own workshops or “mini conferences” attached
@@ -186,14 +186,14 @@ you really want to attend. We want you to get the most out of this you can.
 If we do have to reorganize rooms, there will be a sign taped to the original
 room telling you where to go.
 
-## Social media
+# Social media
 
-### Who to follow
+## Who to follow
  1. [https://fosstodon.org/@cfgmgmtcamp](https://fosstodon.org/@cfgmgmtcamp)
  1. [https://bsky.app/profile/cfgmgmtcamp.bsky.social](https://bsky.app/profile/cfgmgmtcamp.bsky.social)
  1. The hashtag `#cfgmgmtcamp` on your social platform of choice.
 
-### Posting and promoting
+## Posting and promoting
 
 We love when you promote us and tell the world what amazing fun they’re missing
 out on. Share what you’re learning, inspirations you’re having, the sights
@@ -203,9 +203,9 @@ waffles are here!” Use the hashtag `#cfgmgmtcamp` and/or `#ghent`.
 If something’s going wrong, or you want to give feedback then it’s probably more
 expedient to find one of the coordinators to speak with!
 
-## Afterwards
+# Afterwards
 
-### Write down your ideas and build something cool
+## Write down your ideas and build something cool
 
 You just absorbed an utter firehose of information. Right now, it’s all bouncing
 around in your head, but if you want to truly learn or take action on something
@@ -218,7 +218,7 @@ value of the trip and document all the actionable results that came from it. And
 then next year, it’s more likely that your trip request will be approved and we
 can see you again!
 
-### Plan ahead to submit a talk for next year
+## Plan ahead to submit a talk for next year
 
 And speaking of next year, you probably saw a few talks that you could have
 given. Or maybe something similar. See, the people up there speaking are just
