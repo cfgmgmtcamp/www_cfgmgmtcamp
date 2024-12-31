@@ -21,7 +21,7 @@ opportunity to engage. This guide is intended to help lower some of the
 logistical friction, so that you can focus on learning.
 
 
- **Getting there**
+# Getting there
 
     The easiest way to get to Ghent is to fly to Brussels and take the train. Head
     down to baggage claim and you’ll find vending machines where you can purchase
@@ -31,13 +31,13 @@ logistical friction, so that you can focus on learning.
     Do not assume that you can stay in Brussels and commute to Ghent. You’ll spend a
     lot of time on the train and you’ll miss all the social events.
 
- **Coming from Fosdem**
+# Coming from Fosdem 
 
     If you’re coming from Fosdem and are traveling light, then you may be interested
     in carpooling instead of the train. Please reach out to us on the different social media accounts 
     for more information and coordination.  Typically we would  meet at the H. Building info booth around 16:30
 
- **Where to stay**
+# Where to stay
 
     Don’t look for a place by the conference. Ghent city center is where most
     extracurricular activity will occur and it’s not far. Many people stay at either
@@ -45,7 +45,7 @@ logistical friction, so that you can focus on learning.
     the [NH](https://www.nh-hotels.com/en/hotel/nh-collection-gent), but there are
     plenty of other options nearby.
 
- **Local transportation on the tram or bus**
+# Local transportation on the tram or bus
 
     [Public transit in Ghent](https://visit.gent.be/en/good-know/practical-information/getting-around/public-transport-ghent)
     is quite navigable. The easiest way to get around is via contactless with your
