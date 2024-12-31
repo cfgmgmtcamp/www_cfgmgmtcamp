@@ -21,7 +21,7 @@ opportunity to engage. This guide is intended to help lower some of the
 logistical friction, so that you can focus on learning.
 
 
-1. **Getting there**
+ **Getting there**
 
     The easiest way to get to Ghent is to fly to Brussels and take the train. Head
     down to baggage claim and you’ll find vending machines where you can purchase
@@ -31,13 +31,13 @@ logistical friction, so that you can focus on learning.
     Do not assume that you can stay in Brussels and commute to Ghent. You’ll spend a
     lot of time on the train and you’ll miss all the social events.
 
-1. **Coming from Fosdem**
+ **Coming from Fosdem**
 
     If you’re coming from Fosdem and are traveling light, then you may be interested
     in carpooling instead of the train. Please reach out to us on the different social media accounts 
     for more information and coordination.  Typically we would  meet at the H. Building info booth around 16:30
 
-1. **Where to stay**
+ **Where to stay**
 
     Don’t look for a place by the conference. Ghent city center is where most
     extracurricular activity will occur and it’s not far. Many people stay at either
@@ -45,7 +45,7 @@ logistical friction, so that you can focus on learning.
     the [NH](https://www.nh-hotels.com/en/hotel/nh-collection-gent), but there are
     plenty of other options nearby.
 
-1. **Local transportation on the tram or bus**
+ **Local transportation on the tram or bus**
 
     [Public transit in Ghent](https://visit.gent.be/en/good-know/practical-information/getting-around/public-transport-ghent)
     is quite navigable. The easiest way to get around is via contactless with your
@@ -62,7 +62,7 @@ logistical friction, so that you can focus on learning.
     attractions, monuments, museums, and other sights. The local city bus is fairly
     extensive and will take you even to other nearby cities, like Bruges.
 
-1. **The venue: *HoGhent SchoonMeersen***
+ **The venue: *HoGhent SchoonMeersen***
 
     1. **Finding your way around.**
 
@@ -147,7 +147,7 @@ logistical friction, so that you can focus on learning.
         logistics and scheduling, ask for ***Toshaan*** or ***Kris***. For venue and room questions
         ask for ***Bert***. Otherwise just ask if anyone has seen a coordinator.
 
-1. **After the talks**
+ **After the talks**
 
     1. **The official social event**
 
@@ -170,7 +170,7 @@ logistical friction, so that you can focus on learning.
         * Amadeus rib house. Note that there are two, make sure you know which one you’re meeting at!
         * [Lots and lots more](https://visit.gent.be/en/eat-drink)!
 
-1. **The fringe workshops**
+ **The fringe workshops**
 
     The third day of the conference is not centrally organized. Instead, different
     groups use the space to run their own workshops or “mini conferences” attached
@@ -188,7 +188,7 @@ logistical friction, so that you can focus on learning.
     If we do have to reorganize rooms, there will be a sign taped to the original
     room telling you where to go.
 
-1. **Social media**
+ **Social media**
 
     1. **Who to follow**
         1. [https://fosstodon.org/@cfgmgmtcamp](https://fosstodon.org/@cfgmgmtcamp)
@@ -205,7 +205,7 @@ logistical friction, so that you can focus on learning.
         If something’s going wrong, or you want to give feedback then it’s probably more
         expedient to find one of the coordinators to speak with!
 
-1. **Afterwards**
+ **Afterwards**
 
     1. **Write down your ideas and build something cool**
 
