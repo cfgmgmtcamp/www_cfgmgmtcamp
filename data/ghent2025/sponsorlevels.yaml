@@ -25,3 +25,6 @@
 - name: Metal
   identifier: metal
   size: 1x1
+- name: Shop
+  identifier: shop
+  size: 150x150
