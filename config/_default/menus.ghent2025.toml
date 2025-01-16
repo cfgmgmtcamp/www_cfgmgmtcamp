@@ -55,11 +55,11 @@
 		identifier = "guide"
 		url = "/ghent2025/guide/"
 		weight = -200
-[[navbar]]
-	name = "Online Shop"
-	identifier = "shop"
-	url = "https://shop.cfgmgmtcamp.org/"
-	weight = -200
+#[[navbar]]
+#	name = "Online Shop"
+#	identifier = "shop"
+#	url = "https://shop.cfgmgmtcamp.org/"
+#	weight = -200
 [[navbar]]
 	name = "Past"
 	identifier = "past"
