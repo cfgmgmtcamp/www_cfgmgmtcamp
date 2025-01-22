@@ -1,6 +1,6 @@
 ---
 title: Schedule Highlights and Registration Reminder
-date: 2025-21-01
+date: 2025-01-22
 draft: false
 ---
 
