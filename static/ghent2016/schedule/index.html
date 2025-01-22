@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="MobileOptimized" content="width" />
+  <meta name="HandheldFriendly" content="true" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="/ghent2016/stylesheets/stylesheet.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="/ghent2016/stylesheets/pygment_trac.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="/ghent2016/stylesheets/print.css" media="print" />
+  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
+  <link rel="shortcut icon" href="/ghent2016//favicon.ico">
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.ie.css" />
+  <![endif]-->
+  <!--[if lt IE 9]>
+  <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
+  <title>Config Management Camp 2016, Gent</title>
+</head>
+
+<body>
+  <nav>
+    <a href="#" id="menu-icon">&#x2261;</a>
+    <ul>
+      <li><a href="/ghent2016/#about">About</a></li>
+      <li><a href="/ghent2016/#registration">Registration</a></li>
+      <li><a href="/ghent2016/#sponsors">Sponsors</a></li>
+      <li><a href="/ghent2016/#route">Location</a></li>
+      <li><a href="/ghent2016/#contributions">Contributions</a></li>
+      <li><a href="/ghent2016/code_of_conduct.html">Code of Conduct</a></li>
+      <li><a href="/">Latest</a></li>
+    </ul>
+  </nav>
+
+  <div id="container">
+    <header>
+      <div class="inner">
+        <h1>#cfgmgmtcamp</h1>
+        <div class="camp-info">
+          <h2><strong>1</strong> and <strong>2</strong> February 2016</h2>
+          <h2>Gent, Belgium </h2>
+        </div>
+      </div>
+    </header>
+
+
+    <div class="inner">
+      <section id="content">
+
+        The schedule includes a <a href='#main'>main track</a>, <a href='#general'>general sessions</a>, and <a href='#communities'>community rooms</a> for <a href='#ansible'>Ansible</a>, <a href='#chef'>Chef</a>, <a href='#cfengine-rudder'>CFEngine/Rudder</a>, <a href='#foreman'>Foreman</a>, <a href='#juju'>Juju</a>, <a href='#puppet'>Puppet</a>, and <a href='#salt'>Salt</a>.
+
+        <br/>
+        <br/>
+
+        This full schedule is also <a href="http://lanyrd.com/2016/cfgmgmtcamp/schedule/">available on Lanyrd</a> where you can make up your own personalised schedule, using the web site or their mobile application (<a href="https://play.google.com/store/apps/details?id=com.lanyrd.lanyrd">Android (Play Store)</a> | <a href="http://itunes.apple.com/us/app/lanyrd/id467652813">iOS (App Store)</a> | <a href="https://m.lanyrd.com/">Mobile web site</a>).
+
+        <a name='main'></a>
+        <h1>Main Track</h1>
+        <h3>D.AUD</h3>
+        <ul>
+          <li>
+            Monday, February 1
+            <ul>
+              <li>10:00 - Welcome</li>
+              <li>10:20 - The Magic of Modelling - Mark Shuttleworth - (<a href=https://www.youtube.com/watch?v=yuIt8D5ijYQ">Video</a>)</li>
+              <li>11:00 - Break</li>
+              <li>11:20 - <a href="speakers/MitchellHashimoto.html">Secrets, Certificates and Identity with Vault - Mitchell Hashimoto</a> (<a href="https://www.youtube.com/watch?v=xV-yPBr1aeU">Video</a>)</li>
+              <li>12:00 - <a href="ignites.html">Ignite Talks</a></li>
+              <li>12:40 - Lunch</li>
+              <li>14:00 - <a href="speakers/IgorAndDavid.html">Hitchhiker's Guide to Testing Infrastructure Code -  Igor Galić/David Schmitt</a></li>
+              <li>14:40 - <a href="speakers/JonathanBoulle.html">/etcd: Overview and Future -  Jonathan Boulle</a></li>
+              <li>15:20 - Break</li>
+              <li>15:40 - Panel : Configuration Management and Containers, TBA</li>
+              <li>16:20 - <a href="speakers/JamesShubin.html">Next Generation Config Mgmt.- James Shubin (purpleidea)</a> <b>(MOVED FROM DAY TWO)</b> (<a href="https://www.youtube.com/watch?v=fNeooSiIRnA">Video</a>)</li>h
+              <li>17:00 - SOCIAL EVENT</LI>
+            </ul>
+          </li>
+          <li>Tuesday, February 2
+            <ul>
+              <li>10:00 - <a href="speakers/GarethRushgrove.html">Managing Container Configuration with Metadata - Gareth Rushgrove</a> (<a href="https://www.youtube.com/watch?v=gSy8-IrSgqI">Video</a>)</li>
+              <li>10:40 - Break</li>
+              <li>11:00 - <a href="speakers/TomasDoran.html">Empowering developers to deploy their own data stores with Terraform and puppet - Tomas Doran</a></li>
+                <li>11:40 - <a href="speakers/LiamBennett.html">Everything is an orchestration problem - Liam Bennett</a></li>
+              <li>12:20 - <a href="speakers/WalterHeck.html">Configuration Management: time for a 4GL? - Walter Heck</a></li>
+              <li>13:00 - Lunch</li>
+              <li>14:00 - <a href="speakers/ArnoldandJohannes.html">Configuration Management vs. Container Automation - Arnold Bechtoldt & Johannes Scheuermann</a></li>
+              <li>14:40 - <a href="speakers/DavidLutterkort.html">Orchestration and the New York subway system - David Lutterkort</a></li>
+              <li>15:20 - Break</li>
+              <li>15:40 - <a href="speakers/JonathanBoulle.html">rkt and Kubernetes: What’s new with Container Runtimes and Orchestration - Jonathan Boulle</a></li>
+              <li>16:20 - <a href='foodfight.html'>Food Fight Show</a></li>
+            </ul>
+          </li>
+        </ul>
+
+        <a name="general"></a>
+        <h1>General Sessions</h1>
+        <h2>Testing / CI</h2>
+        <h3>B.CON</h3>
+        <ul>
+          <li>
+          Monday, February 1
+          <ul>
+            <li>13:00 - <a href="../ksp.html">Key Signing Party</a></li>
+            <li>14:00 - <a href="speakers/SpencerKrum.html">Advisory Third Party CI - Spencer Krum</a></li>
+            <li>14:40 - <a href="speakers/StuartPreston.html">Cross-platform Infrastructure testing with Microsoft Azure, Test Kitchen and InSpec - Stuart Preston</a></li>
+            <li>15:20 - BREAK</li>
+            <li>15:40 - <a href="speakers/MattBruzek.html">Juju Charm Testing and Debugging - Matt Bruzek</a></li>
+            <li>16:20 - <a href="speakers/JorgeSalameroSanz.html">War Games - flight training for DevOps - Jorge Salamero</a></li>
+          </ul>
+          </li>
+
+          <li>Tuesday, February 2
+          <ul>
+            <li>11:00 - <a href="chef/omeara.html">Test Driven Immutable Infrastructure - Sean O'Meara</a> (<a href="https://www.youtube.com/watch?v=_CXSSMY9wX8">Video</a>)</li>
+            <li>11:40 - <a href="speakers/DominikRichter.html">Skynet testing: InSpec from Solaris to Docker - Dominik Richter</a> (<a href="https://www.youtube.com/watch?v=W-JvGW6_zhY">Video</a>)</li>
+            <li>12:20 - <a href="speakers/JoaoCravo.html">"Jenkins à la Travis"- Joao Cravo</a> (<a href="https://www.youtube.com/watch?v=AP32L7pcI3I">Video</a>)</li>
+            <li>13:00 - LUNCH</LI>
+            <li>14:00 - <a href="chef/goetz.html">Validation Driven Change - Michael Goetz</a></li>
+            <li>14:40 - <a href="speakers/RaphaelPinson.html">Puppet Test-Driven Development with Docker and Travis CI - Marc Fournier </a></li>
+            <li>15:20 - BREAK</LI>
+            <li>15:40 - <a href="speakers/ShimonShteinandAviTal.html">Case study: Dynamic management of heterogeneous test environments using Foreman - Shimon Stein</a></li>
+          </ul>
+          </li>
+        </ul>
+
+        <h2>Container Track</h2>
+        <h3>B1.015</h3>
+        <ul>
+        <li>Tuesday, February 2
+        <ul>
+          <li>11:00 - <a href="speakers/JohnBillings.html">Service discovery at scale using SmartStack - John Billings</a></li>
+          <li>11:40 - <a href="speakers/JulianStrobl.html">Platform orchestration with Kubernetes and Docker - Julian Strobl</a></li>
+          <li>12:20 - <a href="speakers/RedBeard.html">How CoreOS is built, modified, and updated: From repo sync to Omaha - Brian "RedBeard" Harrington</a></li>
+          <li>13:00 - LUNCH</LI>
+        </uL>
+      </ul>
+        <h2>Orchestration Track</h2>
+        <ul>
+        <h3>B1.017</h3>
+        <li>Tuesday, February 2
+        <ul>
+          <li>11:00 - <a href="chef/dunn.html">Orchestration? You Don't Need Orchestration. What You Want Is Choreography. - Julian Dunn</a></li>
+          <li>11:40 - <a href="speakers/BerndErk.html">Apified Monitoring with Icinga2 - Bernd Erk</a></li>
+          <li>12:20 - <a href="speakers/SpencerKrum.html">Better Together! Puppet and Ansible - Spencer Krum</a></li>
+          <li>13:00 - LUNCH</LI>
+        </ul>
+      </ul>
+        <h2>Future Tooling Track</h2>
+        <ul>
+        <h3>B3.019</h3>
+        <li>Tuesday, February 2
+        <ul>
+          <li>11:00 - <a href="speakers/PaulStack.html">The Quest for Infrastructure Management 2.0 - Paul Stack</a> <b>(MOVED FROM DAY ONE)</b></li>
+          <li>11:40 - <a href="speakers/BrianExelbierd.html">Nulecule: Packaging, Distributing & Deploying Container Applications the Cloud Way - Brian Exelbierd</a></li>
+          <li>12:20 - <a href="speakers/PhilipPotter.html">Introduction to Nix and NixOS - Philip Potter</a></li>
+          <li>13:00 - LUNCH</LI>
+        </ul>
+
+      </ul>
+        <a name="communities"></a>
+        <h1>Community Rooms</h1>
+
+        <a name="ansible"></a>
+        <h2>Ansible</h2>
+        <h3>B1.017</h3>
+        <ul>
+          <li>
+            Monday, February 1
+            <ul>
+              <li>14:00 - <a href="speakers/AndyMcGuigan.html">Minimal First Machine in the DC - Andy McGuigan</a></li>
+              <li>14:40 - <a href="speakers/KerimChris.html">Engineering for Failure - Kerim Satirli, Chris Grigor</a></li>
+              <li>15:20 - Break</li>
+              <li>15:40 - <a href="">TBC</a></li>
+              <li>16:20 - <a href="speakers/RemyDeCausemaker.html">Open Infrastructure at Fedora - Remy DeCausemaker</a></li>
+            </ul>
+          </li>
+          <li>Tuesday, February 2
+            <ul>
+              <li>14:00 - <a href="speakers/DanielandTina.html">CI With Ansible - Daniel Brachmann, Tina Hansmann</a></li>
+              <li>14:40 - <a href="speakers/DanielLobatoGarcia.html">Hosts' Lifecycle with Ansible and Foreman - Daniel Lobato</a></li>
+              <li>15:20 - Break</li>
+              <li>15:40 - <a href="speakers/RobynandGreg.html">Ansible Community Chat - Robyn Bergeron, Greg DeKoenigsberg</a></li>
+            </ul>
+          </li>
+        </ul>
+
+
+
+
+        <a name="chef"></a>
+        <h2>Chef</h2>
+        <h3>B3.019</h3>
+        The following talks will happen in the Chef Community room (B3.019).  Be sure to visit the <a href='chef.html'>full schedule of Chef-related talks</a>.
+        <ul>
+          <li>
+            Monday, February 1
+            <ul>
+              <li>14:00 - <a href='chef/vyas.html'>Scaling under pressure</a></li>
+              <li>14:40 - <a href='chef/fonseca.html'>Cooking on the cloud - An immutable experience</a></li>
+              <li>15:20 - Break</li>
+              <li>15:40 - <a href='chef/goetz.html'>InSpec, or How to translate compliance spreadsheets into code</a></li>
+              <li>16:20 - <a href='chef/johnson.html'>Infrastructure testing</a></li>
+            </ul>
+          </li>
+          <li>Tuesday, February 2
+            <ul>
+              <li>14:00 - <a href='chef/omeara.html'>Custom Resources in Chef</a></li>
+              <li>14:40 - <a href='chef/dunn.html'>Automating AIX With Chef</a></li>
+              <li>15:20 - Break</li>
+              <li>15:40 - <a href='chef/asghar.html'>Deploying OpenStack Sanely with Chef</a></li>
+            </ul>
+          </li>
+        </ul>
+
+        <a name="cfengine-rudder"></a>
+        <h2>CFEngine</h2>
+        <h3>B3.036</h3>
+        The following talks will happen in the CFEngine/Rudder Community room (B3.036).  Be sure to visit the <a href='cfengine-rudder.html'>full schedule of CFEngine/Rudder-related talks</a>.
+        <ul>
+          <li>
+            Monday, February 1
+            <ul>
+              <li>14:00 - <a href='cfengine-rudder/pannel.html'>CFEngine Champions Panel</a></li>
+              <li>14:40 - <a href='cfengine-rudder/security.html'>Security Practices with CFEngine</a></li>
+              <li>15:20 - Break</li>
+              <li>15:40 - <a href='cfengine-rudder/testing.html'>Testing Policy and the Core test framework</a></li>
+              <li>16:20 - <a href='cfengine-rudder/messaging.html'>Messaging CFEngine and Data</a></li>
+            </ul>
+          </li>
+          <li>Tuesday, February 2
+            <ul>
+              <li>14:00 - <a href='cfengine-rudder/roadshow.html'>The CFEngine Roadshow BYOVM</a></li>
+              <li>14:40 - <a href='cfengine-rudder/ncf.html'>Using ncf building blocks to help writing CFEngine policies</a></li>
+              <li>15:20 - Break</li>
+              <li>15:40 - <a href='cfengine-rudder/rudder-mission-portal.html'>Integrating Rudder and CFEngine Mission Portal</a></li>
+            </ul>
+          </li>
+        </ul>
+
+        <a name="foreman"></a>
+        <h2>Foreman</h2>
+        <h3>B2.015</h3>
+        <ul>
+          <li>
+            Monday, February 1
+            <ul>
+              <li>14:00 - <a href="speakers/GregSutcliffe.html">Community Update - Greg Sutcliffe</a></li>
+              <li>14:20 - <a href='speakers/TomerBrisker.html'>Intro to parameters in Foreman - Tomer Brisker</a> &amp; <a href='speakers/OriRabin.html'>Ori Rabin</a></li>
+              <li>14:40 - <a href='speakers/JulienPivotto.html'>Demystifying the Foreman - Julien Pivotto</a></li>
+              <li>15:20 - Break</li>
+              <li>15:40 - <a href='speakers/MarekHulan.html'>Foreman and remote execution - Marek Hulán</a></li>
+              <li>16:20 - <a href='speakers/ShlomiZadok.html'>Security and Compliance reports in foreman - Shlomi Zadok</a></li>
+              <li>17:00 - <a href="speakers/StephenBenjamin.html">PXEless discovery - Stephen Benjamin </a></li>
+            </ul>
+          </li>
+          <li>Tuesday, February 2
+            <ul>
+              <li>14:00 - <a href="speakers/GregSutcliffe.html">There's a plugin for that... - Greg Sutcliffe</a></li>
+              <li>14:40 - <a href='speakers/MichaelMoll.html'>Extending Operating Systems support of Foreman - Michael Moll</a></li>
+              <li>15:20 - Break</li>
+              <li>15:40 - <a href="speakers/EwoudKohlvanWijngaarden.html">Foreman and PowerDNS - Ewoud Kohl van Wijngaarden</a></li>
+              <li>16:00 - <a href='speakers/NilsDomrose.html'>Infrastructure as code, foreman_provision - Nils Domrose</a></li>
+            </ul>
+          </li>
+        </ul>
+
+
+
+
+        <a name="juju"></a>
+        <h2>Juju</h2>
+        <h3>B4.039</h3>
+        <ul>
+          <li>
+            Monday, February 1
+            <ul>
+              <li>14:00 - <a href="speakers/JorgeCastro.html">Introduction to Juju - Jorge Castro</a> - (<a href="https://www.youtube.com/watch?v=wBuSF06fSRg">Video</a>)</li> 
+              <li>14:40 - <a href="speakers/MarcoCeppi.html">Your First Juju Charm - Marco Ceppi </a> - (<a href="https://docs.google.com/a/canonical.com/presentation/d/1fpkb11Krg_3EIZ-hexEaoV-moJI7juwTIvn_Q_7UyO4/edit?usp=sharing">Slides</a>)</li>
+              <li>15:20 - Break</li>
+              <li>15:40 - <a href="speakers/MarcoCeppi.html">Benchmarking Clouds - Marco Ceppi</a> - (<a href="https://docs.google.com/a/canonical.com/presentation/d/1tUcizjVoLqZzpKJB_Mc-nkl_IMxKbbqMw8O-YTAx9TQ/edit?usp=sharing">Slides</a>)</li>
+              <li>16:20 - <a href="speakers/JamesPage.html">Building a private cloud with the OpenStack charms - James Page</a></li>
+            </ul>
+          </li>
+          <li>Tuesday, February 2
+            <ul>
+              <li>14:00 - <a href="speakers/CharlesButler.html">Ansible and Juju sitting in a tree.. - Charles Butler</a> - (<a href="https://docs.google.com/presentation/d/1J_nZVQxfB7u4mmZFLiC0sxH8A6O9_ei2xVONm8xlt8g/edit#slide=id.gfc7861c1f_0_0">Slides</a>) - (<a href="https://www.youtube.com/watch?v=XqD2HvVosJM&amp;index=4&amp;list=PLzSGDpUWtiotngRgVqpa8jeCBQ2CCjzfo">Video</a>)</li>
+              <li>14:40 - <a href="speakers/MattBruzek.html">Rolling out and Managing Kubernetes - Matt Bruzek</a> - (<a href="https://github.com/juju/presentations/raw/master/traditional_slides/2016_eu_charm_summit/Rolling%20out%20and%20managing%20Kubernetes.pdf">Slides</a>) - (<a href="https://www.youtube.com/watch?v=viFH0T_w2LA&amp;index=5&amp;list=PLzSGDpUWtiotngRgVqpa8jeCBQ2CCjzfo">Video</a>)</li>
+              <li>15:20 - Break</li>
+              <li>15:40 - <a href="speakers/CoryJohns.html">Production-grade Big Data Infastructure - Cory Johns</a> - (<a href="https://docs.google.com/a/canonical.com/presentation/d/1nyD_XsyDBymaD5oOlKbZcjLjppGPiKLUH_p6jpjLeWc/edit?usp=sharing">Slides</a>) - (<a href="https://www.youtube.com/watch?v=We1VYfbqJDs&amp;index=6&amp;list=PLzSGDpUWtiotngRgVqpa8jeCBQ2CCjzfo">Video</a>)</li>
+            </ul>
+          <li>Wednesday, February 3 (Extra day)</li>
+            <ul>
+              <li>10:00 - Juju 2.0 Roadmap - Rick Harding - (<a href="https://www.youtube.com/watch?v=E1KA7ylWN4U&amp;index=1&amp;list=PLzSGDpUWtiotngRgVqpa8jeCBQ2CCjzfo">Video</a>)</li>
+              <li>11:00 - Charmers Road to 2.0</li>
+              <li>12:00 - Lightning Talks - (<a href="https://www.youtube.com/watch?v=rsrISKL-yIU&amp;index=3&amp;list=PLzSGDpUWtiotngRgVqpa8jeCBQ2CCjzfo">Video</a>)</li>
+              <li>13:00 - Lunch</li> 
+              <li>14:00 - 16:00 - Breakouts / Deep Dive</li>
+              <li>16:45 - Wrap Up</li>
+            </ul>
+          </li>
+        </ul>
+
+
+
+
+
+
+
+        <a name="puppet"></a>
+        <h2>Puppet</h2>
+
+        <h3>B1.015</h3>
+        <ul>
+          <li>
+            Monday, February 1
+            <ul>
+              <li>14:00 - <a href="speakers/DanieleSluijters.html">How we moved to Puppet 4- Daniele Sluijters</a></li>
+              <li>14:40 - <a href="speakers/PeterSouter.html">Securing your Puppet Infrastructure - Peter Souter</a></li>
+              <li>15:20 - Break</li>
+              <li>15:40 - <a href="speakers/EricSorenson.html">A Decade and Change: Puppet's History as a Mythopoetic Journey - Eric Sorenson</a></li>
+              <li>16:20 - <a href="speakers/KenBarber.html">Puppet Query Language - Ken Barber</a></li>
+            </ul>
+          </li>
+          <li>Tuesday, February 2
+            <ul>
+              <li>14:00 - <a href="speakers/AlexandruLoredanStancu.html">Puppet architecture for 2000 nodes using AWS infrastructure - Alexandru Loredan Stancu </a></li>
+              <li>14:40 - <a href="speakers/CraigDunn.html">Solving real world data problems with Jerakia - Craig Dunn</a></li>
+              <li>15:20 - Break</li>
+              <li>15:40 - <a href="speakers/LiamBennett.html">Config Management for Services - Liam Bennet</a></li>
+            </ul>
+          </li>
+        </ul>
+
+
+
+
+
+
+        <a name="salt"></a>
+        <h2>Salt</h2>
+
+        <h3>B4.042</h3>
+        <ul>
+          <li>
+            Monday, February 1
+            <ul>
+              <li>14:00 - <a href="speakers/DavidBoucha.html">Beyond Config Mgmt with Salt!- David Boucha</a></li>
+              <li>14:40 - <a href="speakers/CROldham.html">alt Proxy Minions: Driving Non-Server Hardware with SaltStack - CR Oldham</a></li>
+              <li>15:20 - Break</li>
+              <li>15:40 - <a href="speakers/ArthurLutz.html">Roll out active Supervision with Salt, Graphite and  Grafana - Arthur Lutz</a></li>
+              <li>16:20 - <a href="speakers/ArnoldBechtoldt.html">Automated Application Deployment with SaltStack Orchestration - Arnold Bechtoldt</a></li>
+            </ul>
+          </li>
+          <li>Tuesday, February 2
+            <ul>
+              <li>14:00 - <a href="speakers/StephenBenjamin.html">SaltStack integration with Foreman - Stephen Benjamin</a></li>
+              <li>14:40 - <a href="speakers/BorisFELD.html">Saltpad , A modern web UI for Saltstack - Boris Feld</a></li>
+            </ul>
+          </li>
+        </ul>
+
+
+
+
+      </section>
+    </div>
+  </div>
+</body>
+</html>
