@@ -45,8 +45,8 @@
 	url = "/ghent2019/codeofconduct/"
 	weight = -300
 [[navbar]]
-	name = "Archive"
-	identifier = "archive"
-	url = "https://archive.cfgmgmtcamp.eu/"
+	name = "Past"
+	identifier = "past"
+	url = "/ghent2019/pastfuture/"
 	weight = -100
 

@@ -1,29 +1,56 @@
-
 [ghent2025]
-	title = "CfgMgmtCamp 2025"
+	title = "CfgMgmtCamp 2025 Ghent"
 	contentDir = "content/ghent2025"
 	weight = -2025
 [ghent2024]
-	title = "CfgMgmtCamp 2024"
+	title = "CfgMgmtCamp 2024 Ghent"
 	contentDir = "content/ghent2024"
 	weight = -2024
 [ghent2023]
-	title = "CfgMgmtCamp 2023"
+	title = "CfgMgmtCamp 2023 Ghent"
 	contentDir = "content/ghent2023/"
 	weight = -2023
 [ghent2022]
-	title = "CfgMgmtCamp 2022"
+	title = "CfgMgmtCamp 2022 Ghent"
 	contentDir = "content/ghent2022/"
 	weight = -2022
 [ghent2021]
-	title = "CfgMgmtCamp 2021"
+	title = "CfgMgmtCamp 2021 Ghent"
 	contentDir = "content/ghent2021/"
 	weight = -2021
 [ghent2020]
-	title = "CfgMgmtCamp 2020"
+	title = "CfgMgmtCamp 2020 Ghent"
 	contentDir = "content/ghent2020/"
 	weight = -2020
 [ghent2019]
-	title = "CfgMgmtCamp 2019"
+	title = "CfgMgmtCamp 2019 Ghent"
 	contentDir = "content/ghent2019/"
 	weight = -2019
+[ghent2018]
+	title ="CfgMgmtCamp 2018 Ghent"
+	contentDir = "content/archive"
+	weight = -2018
+[pdx2017]
+	title = "CfgMgmtCamp 2017 Portland"
+	contentDir = "content/archive"
+	weight = -2017
+[ghent2017]
+	title = "CfgMgmtCamp 2017 Ghent"
+	contentDir = "content/archive"
+	weight = -2017
+[berlin2016]
+	title = "CfgMgmtCamp 2016 Berlin"
+	contentDir = "content/archive"
+	weight = -2016
+[ghent2016]
+	title = "CfgMgmtCamp 2016 Ghent"
+	contentDir = "content/archive"
+	weight = -2016
+[ghent2015]
+	title = "CfgMgmtCamp 2015 Ghent"
+	contentDir = "content/archive"
+	weight = -2015
+[ghent2014]
+	title = "CfgMgmtCamp 2014 Ghent"
+	contentDir = "content/archive"
+	weight = -2014

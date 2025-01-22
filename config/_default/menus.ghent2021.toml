@@ -49,7 +49,6 @@
 [[navbar]]
 	name = "Past"
 	identifier = "past"
-	url = "/ghent2021/past/"
-	#url = "https://archive.cfgmgmtcamp.eu/"
+	url = "/ghent2021/pastfuture/"
 	weight = -100
 

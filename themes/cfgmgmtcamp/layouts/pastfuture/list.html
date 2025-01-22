@@ -1,0 +1,21 @@
+{{ partial "header.html" . }}
+
+{{ partial "navbar.html" . }}
+
+<div id="container">
+<section id="posts">
+<div class="inner">
+
+<h1>Past, Current and Future Events</h1>
+
+<ul>
+	{{ range .Site.Languages }}
+		<li><a href="/{{ . }}/">{{ .Title }}</a></li>
+	{{ end }}
+</ul>
+
+</div>
+</section>
+</div>
+
+{{ partial "footer.html" . }}
