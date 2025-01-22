@@ -1,10 +1,10 @@
 ---
 title: "Ansible"
-level: titanium
+level: platinum
 image: ansible.png
 link: https://www.ansible.com/
-date: 2024-01-27
-draft: true
+date: 2024-01-22
+draft: false
 ---
 
 
