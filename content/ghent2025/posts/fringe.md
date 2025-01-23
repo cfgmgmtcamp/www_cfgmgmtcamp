@@ -13,7 +13,7 @@ CfgMgmtCamp has always been the go-to gathering for systems administrators, DevO
 Here’s a sneak peek at what’s in store:
 
 ### **AI Plumbers Conference**
-On February 3d, all the Low Level AI Engineers and Hackers are invited to the continuation of our **[Low Level AI DevRoom](https://fosdem.org/2025/schedule/track/ai/)** so we can have more time together in a more relaxed atmosphere. Expect hands-on sessions not just talks. Bring all your questions, unresolved issues and unaccepted PR requests. We also are going to have some HW from our co-organizer and event sponsor Tenstorrent! Come to get your hands on **[Wormhole](https://tenstorrent.com/hardware/wormhole)** and accelerate your local models beyond NVIDIA. **[Don't delay - register today!](https://lu.ma/fx9kupug)**
+On February 3d, all the Low Level AI Engineers and Hackers are invited to the continuation of our **[Low Level AI DevRoom](https://fosdem.org/2025/schedule/track/ai/)** so we can have more time together in a more relaxed atmosphere. Expect hands-on sessions not just talks. Bring all your questions, unresolved issues and unaccepted PR requests. We also are going to have some HW from Tenstorrent! Come to get your hands on **[Wormhole](https://tenstorrent.com/hardware/wormhole)** and accelerate your local models beyond NVIDIA. **[Don't delay - register today!](https://lu.ma/fx9kupug)**
 
 
 ### **Icinga Meetup**
