@@ -1,8 +1,8 @@
 ---
 title: "Sponsors"
-date: 2024-06-09
-version: 2025.03
-draft: true
+date: 2025-07-03
+version: 2026.01
+draft: false
 ---
 
 Configuration Management Camp is made possible by the support of our sponsors.
@@ -14,4 +14,4 @@ Many different sponsorship opportunities are available but please contact us if 
 Download the sponsor prospectus and let us know which sponsorship option best suits your team.  
 [https://github.com/cfgmgmtcamp/sponsordoc/releases/download/{{< param version >}}/sponsordoc.pdf](https://github.com/cfgmgmtcamp/sponsordoc/releases/download/{{< param version >}}/sponsordoc.pdf)
 
-We thank these sponsors for making Config Management Camp 2025 possible.
+We thank these sponsors for making Config Management Camp 2026 possible.
