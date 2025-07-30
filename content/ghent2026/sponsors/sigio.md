@@ -1,5 +1,5 @@
 ---
-title: "Sigi-I/O"
+title: "Sig-I/O"
 level: media
 image: sigio.png
 link: https://sig-io.nl/
