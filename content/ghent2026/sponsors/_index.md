@@ -1,7 +1,7 @@
 ---
 title: "Sponsors"
 date: 2025-07-03
-version: 2026.01
+version: 2025.03
 draft: false
 ---
 
