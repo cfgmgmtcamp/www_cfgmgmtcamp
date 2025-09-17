@@ -8,6 +8,7 @@ Configuration Management Camp takes place in a public higher education location.
 
 ## Address ##
 
+Gebouw D
 [HoGent - Campus SchoonMeersen](https://www.hogent.be/over-hogent/campussen/)  
 [Valentin Vaerwyckweg 1  
 9000 Gent](https://www.google.com/maps/place/Valentin+Vaerwyckweg+1,+9000+Gent/@51.034206,3.701377,15z/data=!4m5!3m4!1s0x47c373d9db56a84f:0x6e767626e8632b7f!8m2!3d51.0342064!4d3.701377?hl=en-US)  
@@ -24,8 +25,7 @@ The campus is conveniently located.
 It is within walking distance of the Gent-Sint-Pieters train station.  
 There will be signs to from the train station to the venue.  
 [Belgian Train Service](https://www.belgiantrain.be/)  
-[Walking from the station](https://www.google.com/maps/dir/Gent-Sint-Pieters,+Kon.+Maria+Hendrikaplein+1,+9000+Gent,+Belgium/Schoonmeersen+C,+Schoonmeersstraat,+Ghent,+Belgium/@51.0333088,3.7038049,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47c373df9337351f:0x4ceda1a1bb234aed!2m2!1d3.7108392!2d51.0361132!1m5!1m1!1s0x47c373dbe47f6a43:0xa01be4b17e98bc3b!2m2!1d3.7046456!2d51.0316932!3e2)  
-
+[Walking from the station](https://www.google.com/maps/dir/Gent-Sint-Pieters,+Kon.+Maria+Hendrikaplein+1,+9000+Gent,+Belgium/Gebouw+D,+9000+Gent/@51.0332821,3.703813,764m/data=!3m1!1e3!4m14!4m13!1m5!1m1!1s0x47c373df9337351f:0x4ceda1a1bb234aed!2m2!1d3.7108392!2d51.0361132!1m5!1m1!1s0x47c373dbcd585d7b:0xf3ffcddf5090a22c!2m2!1d3.7027949!2d51.0315111!3e2?entry=tts&g_ep=EgoyMDI1MDkxNC4wKgBIAVAD&skid=915ff303-cd0f-4b8b-a3c5-12141b1eff56)
 ### Car ###
 
 It is also 2 minutes from the E40 Highway.  
