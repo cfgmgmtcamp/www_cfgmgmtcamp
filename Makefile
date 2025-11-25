@@ -7,7 +7,7 @@ HUGO=hugo-extended
 all: build compress
 
 build:
-	$(HUGO) --environment=production --minify --enableGitInfo --forceSyncStatic --templateMetrics
+	$(HUGO) --environment=production --minify --enableGitInfo --forceSyncStatic --templateMetrics --templateMetricsHints
 
 compress:
 	@rm -rf public/feed.xml
@@ -33,10 +33,7 @@ netlify:
 	$(MAKE) HUGO=hugo build
 
 debug:
-	$(HUGO) --environment=development --minify --enableGitInfo --forceSyncStatic --debug --logLevel debug --templateMetrics --templateMetricsHints
-
-travis:
-	$(MAKE) HUGO=./hugo build
+	$(HUGO) --environment=development --minify --enableGitInfo --forceSyncStatic --logLevel debug --templateMetrics --templateMetricsHints
 
 test:
 	$(HUGO) --environment=development --minify --enableGitInfo --forceSyncStatic --templateMetrics --templateMetricsHints --verbose
