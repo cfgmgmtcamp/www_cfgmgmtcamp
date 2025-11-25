@@ -1,7 +1,10 @@
 <nav>
-	<a href="#" id="menu-icon">&#x2261;</a>
+	<div style="text-align: center;">
+		{{ $toplogosource := resources.Get "images/logo_top.png" }}
+		{{ $toplogo := $toplogosource.Resize "40x40 webp" }}
+		<a href="/"><img src="{{ $toplogo.RelPermalink }}" alt="CfgMgmtCamp"></a>
+	</div>
 	<ul>
-		<li><a href="/"><img src="{{ "images/logo_top.png" | relURL }}" alt="CfgMgmtCamp"></a></li>
 		{{ range .Site.Menus.navbar }}
 			<li><a href="{{ .URL }}">{{ .Name }}</a> | </li>
 		{{ end }}
