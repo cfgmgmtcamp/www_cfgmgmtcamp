@@ -113,9 +113,9 @@ nav ul li {
 	padding-left: 0;
 	display: inline-block;
 }
-nav img {
-	margin-top: 15px;
-	height: 40px;
+nav #toplogo {
+	text-align: center;
+	margin-top: 5px;
 }
 nav a {
 	font-size: 130%;
