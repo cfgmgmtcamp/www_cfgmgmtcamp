@@ -39,20 +39,21 @@ for more information and coordination.  Typically we would  meet at the H. Build
 
 Don’t look for a place by the conference. Ghent city center is where most
 extracurricular activity will occur and it’s not far. Many people stay at either
-the [Novotel](https://all.accor.com/ssr/app/accor/rates/0840/index.en.shtml) or
-the [NH](https://www.nh-hotels.com/en/hotel/nh-collection-gent), but there are
-plenty of other options nearby.
+the [Novoteli Gent Centrum](https://all.accor.com/ssr/app/accor/rates/0840/index.en.shtml) or
+the [NH Collection Gent](https://www.nh-hotels.com/en/hotel/nh-collection-gent) or
+the [Marriot Ghent](https://www.marriott.com/en-us/hotels/gnemc-ghent-marriott-hotel/overview/),
+but there are plenty of other options nearby.
 
 # Local transportation on the tram or bus
 
 [Public transit in Ghent](https://visit.gent.be/en/good-know/practical-information/getting-around/public-transport-ghent)
 is quite navigable. The easiest way to get around is via contactless with your
 phone or card. Just tap on the white terminal each time you enter a bus or tram.
-You’ll be charged (€2.50) only once for an hour.
+You’ll be charged (€3.00) only once for an hour, for exact pricing please check the website of "[De Lijn](https://www.delijn.be/en/content/vervoerbewijzen/tickets/)"
 
 You can also buy a pack of 10 tickets at the ***Lijnwinkel*** inside the
 Gent-Sint-Pieters or Korenmarkt stations or at a machine at many tram or bus
-stops.
+stops. Or you can use the online app, more information [here](https://www.delijn.be/en/content/reisinfo/ontdek-de-app/).
 
 If you’re planning to stay extra and sightsee, you might consider a
 [CityCard Ghent](https://visit.gent.be/en/good-know/practical-information/citycard-gent).
@@ -84,7 +85,7 @@ other words, *B.3.039* is building *B*, third floor, room *39*.
 Wifi access will be shared during the conference introduction in the *D auditorium*.
 You’ll want this for the schedule and other such, but please don’t abuse it.
 
-[Open the schedule](https://cfp.cfgmgmtcamp.org/2025/schedule/) on your phone
+[Open the schedule](https://cfp.cfgmgmtcamp.org/2026/schedule/) on your phone
 and/or laptop. Plan ahead which talks, or tracks, or speakers you’re excited to
 see and figure out where the rooms are. Then pay attention around you. If
 schedule changes are required, such as running 15 minutes behind or the like,
@@ -104,7 +105,7 @@ have been a schedule change that didn’t get published.
 
 ## Swag pickup
 
-Preordered swag can be picked up from Walter before the opening keynote. 
+Preordered swag can be picked up from the main foyer stand before the opening keynote. 
 
 ## Front and back entrances to the main stage
 
@@ -173,7 +174,7 @@ Make some friends and have dinner or meet for drinks. Some of the conference fav
 The third day of the conference is not centrally organized. Instead, different
 groups use the space to run their own workshops or “mini conferences” attached
 to the main venue. For example, there will be a Foreman hack day, Community Day
-events for both Puppet and Ansible, an [mgmtconfig](https://github.com/purpleidea/mgmt)
+events for both Puppet and Ansible, an mgmtconfig
 workshop, and many more.
 
 The same rules about lunch and all apply, but there will be no central organization.
