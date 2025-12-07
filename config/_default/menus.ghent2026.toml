@@ -3,58 +3,68 @@
 	name = "About"
 	identifier = "about"
 	url = "/ghent2026/about/"
-	weight = -1000
-#[[navbar]]
-#	name = "Registration"
-#	identifier = "registration"
-#	url = "/ghent2026/registration/"
-#	weight = -900
+	weight = -9000
+[[navbar]]
+	name = "Registration"
+	identifier = "registration"
+	url = "/ghent2026/registration/"
+	weight = -8000
 #[[navbar]]
 #	name = "FOSDEM"
 #	identifier = "registration"
 #	url = "https://fosdem.org/2023/schedule/track/infra_management/"
 #	#url = "https://registration.cfgmgmtcamp.be/ghent/2023/"
-#	weight = -900
-[[navbar]]
-	name = "CfP"
-	identifier = "cfp"
-	url = "https://cfp.cfgmgmtcamp.org/ghent2026/cfp"
-	weight = -800
+#	weight = -7000
+#[[navbar]]
+#	name = "CfP"
+#	identifier = "cfp"
+#	url = "https://cfp.cfgmgmtcamp.org/ghent2026/cfp"
+#	weight = -6000
 [[navbar]]
 	name = "Sponsors"
 	identifier = "sponsors"
 	url = "/ghent2026/sponsors/"
-	weight = -700
+	weight = -5000
 #[[navbar]]
 #	name = "Schedule"
 #	identifier = "schedule"
 #	url = "/ghent2026/schedule/"
-#	weight = -600
-#[[navbar]]
-#	name = "Social"
-#	identifier = "social"
-#	url = "/ghent2026/social/"
-#	weight = -400
-#[[navbar]]
-#	name = "Speakers"
-#	identifier = "speakers"
-#	url = "/ghent2026/speaker/"
-#	weight = -350
+#	weight = -4000
+[[navbar]]
+	name = "Social"
+	identifier = "social"
+	url = "/ghent2026/social/"
+	weight = -3000
+[[navbar]]
+	name = "Women's Lunch"
+	identifier = "womenislunch"
+	url = "/ghent2026/womenslunch/"
+	weight = -2900
 [[navbar]]
 	name = "Location"
 	identifier = "location"
 	url = "/ghent2026/location/"
-	weight = -500
+	weight = -2000
 [[navbar]]
 	name = "Conduct"
 	identifier = "conduct"
 	url = "/ghent2026/codeofconduct/"
-	weight = -300
+	weight = -1000
 [[navbar]]
-		name = "Guide"
-		identifier = "guide"
-		url = "/ghent2026/guide/"
-		weight = -200
+	name = "Guide"
+	identifier = "guide"
+	url = "/ghent2026/guide/"
+	weight = -900
+#[[navbar]]
+#	name = "Matrix"
+#	identifier = "matrix"
+#	url = "/ghent2026/matrix/"
+#	weight = -800
+#[[navbar]]
+#	name = "Event App"
+#	identifier = "eventapp"
+#	url = "/ghent2026/eventapp/"
+#	weight = -700
 #[[navbar]]
 #	name = "Online Shop"
 #	identifier = "shop"
@@ -64,4 +74,4 @@
 	name = "Past"
 	identifier = "past"
 	url = "/ghent2026/pastfuture/"
-	weight = -100
+	weight = 0
