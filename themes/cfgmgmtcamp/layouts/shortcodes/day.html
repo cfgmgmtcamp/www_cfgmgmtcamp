@@ -1,0 +1,7 @@
+{{ $d := .Get 0 }}
+{{ $data := index $.Site.Data .Site.Language.Lang }}
+{{ range $day := $data.days }}
+{{ if eq $d $day.day }}
+{{ $day.name }}
+{{ end }}
+{{ end }}
