@@ -1,6 +1,6 @@
 ---
 title: Register and join the Women's Lunch at CfgMgmtCamp 2026!
-date: 2025-11-26
+date: 2025-12-11
 draft: false
 ---
 
@@ -13,6 +13,6 @@ After the great response we had earlier this year, we will reprise this networki
 
 We'll begin with a brief introduction and suggest discussion topics. However, there is no set agenda. You are welcome to mingle with one another and join the discussions while enjoying lunch.
 
-Indicate your participation by registering! During the event [registration](https://cfgmgmtcamp.org/ghent2026/registration/) process, please select the option for "Women's Lunch Registration".
+Indicate your participation by registering! During the event [registration](https://cfgmgmtcamp.org/ghent2026/registration/) process, please select the option for "Women Lunch Registration" on Monday 2 February 2026.
 
 We look forward to seeing you there!
