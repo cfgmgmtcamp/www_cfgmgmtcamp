@@ -25,11 +25,11 @@
 	identifier = "sponsors"
 	url = "/ghent2026/sponsors/"
 	weight = -5000
-#[[navbar]]
-#	name = "Schedule"
-#	identifier = "schedule"
-#	url = "/ghent2026/schedule/"
-#	weight = -4000
+[[navbar]]
+	name = "Schedule"
+	identifier = "schedule"
+	url = "/ghent2026/schedule/"
+	weight = -4000
 [[navbar]]
 	name = "Social"
 	identifier = "social"
