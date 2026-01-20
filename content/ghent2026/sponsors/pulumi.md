@@ -1,8 +1,8 @@
 ---
 title: Pulumi
-level: gold
+level: platinum
 image: pulumi.png
 link: https://pulumi.com
-date: 2022-12-25
-draft: true
+date: 2026-01-20
+draft: false
 ---
