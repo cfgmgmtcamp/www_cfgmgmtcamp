@@ -4,10 +4,21 @@
 [context.production]
 	command = "make netlify"
 	publish = "public/"
-
 [context.production.environment]
 	HUGO_VERSION = "0.152.2"
+
+[context.deploy-preview]
+	command = "make netlify-preview"
+	publish = "public/"
+	skip_processing = true
 [context.deploy-preview.environment]
 	HUGO_VERSION = "0.152.2"
+
+[context.branch-deploy]
+	command = "make netlify-preview"
+	publish = "public/"
+	skip_processing = true
 [context.branch-deploy.environment]
 	HUGO_VERSION = "0.152.2"
+
+
