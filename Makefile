@@ -9,6 +9,15 @@ all: build compress
 build:
 	$(HUGO) --environment=production --minify --enableGitInfo --forceSyncStatic --templateMetrics --templateMetricsHints
 
+netlify:
+	$(MAKE) HUGO=hugo build
+
+preview:
+	$(HUGO) --environment=development --enableGitInfo --forceSyncStatic --logLevel debug --templateMetrics --templateMetricsHints
+
+netlify-preview:
+	$(MAKE) HUGO=hugo preview
+
 compress:
 	@rm -rf public/feed.xml
 	@find public/*/posts/ -name 'feed.xml' -exec sh -c "cat {} >> public/feed.xml" \;
@@ -29,8 +38,7 @@ qrcode:
 	@qrencode -t SVG -o static/schedule/giggity.svg -l H -Sv 3 < static/schedule/giggity.json
 	@qrencode -t SVG -o static/schedule/ical.svg -l H 'https://cfgmgmtcamp.eu/schedule/schedule.ics'
 
-netlify:
-	$(MAKE) HUGO=hugo build
+
 
 debug:
 	$(HUGO) --environment=development --minify --enableGitInfo --forceSyncStatic --logLevel debug --templateMetrics --templateMetricsHints
