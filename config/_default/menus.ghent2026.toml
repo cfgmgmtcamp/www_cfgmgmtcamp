@@ -55,11 +55,11 @@
 	identifier = "guide"
 	url = "/ghent2026/guide/"
 	weight = -900
-#[[navbar]]
-#	name = "Matrix"
-#	identifier = "matrix"
-#	url = "/ghent2026/matrix/"
-#	weight = -800
+[[navbar]]
+	name = "Matrix"
+	identifier = "matrix"
+	url = "/ghent2026/matrix/"
+	weight = -800
 #[[navbar]]
 #	name = "Event App"
 #	identifier = "eventapp"
