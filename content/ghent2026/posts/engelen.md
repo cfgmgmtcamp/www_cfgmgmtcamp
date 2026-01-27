@@ -1,7 +1,7 @@
 ---
 title: Call for Volunteers 
-date: 2026-01-21
-draft: true
+date: 2026-01-27
+draft: false
 ---
 
 CfgMgmtCamp thrives because of its community — and that includes the volunteers who help keep everything running smoothly during the event. This year, we’re happy to announce that we’re using **Engelsystem** to coordinate volunteer shifts and tasks.
