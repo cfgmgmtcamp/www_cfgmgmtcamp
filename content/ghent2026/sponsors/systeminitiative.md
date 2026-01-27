@@ -1,10 +1,10 @@
 ---
 title: "System Initiative"
-level: titanium
+level: platinum
 image: systeminitiative.png
 link: https://www.systeminit.com/
-date: 2024-01-16
-draft: true
+date: 2025-01-23
+draft: false
 ---
 
 
