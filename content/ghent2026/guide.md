@@ -103,10 +103,6 @@ here. If you are in the lobby and it seems particularly empty, then there’s
 probably a talk happening. If you didn’t expect that, ask someone. There may
 have been a schedule change that didn’t get published.
 
-## Swag pickup
-
-Preordered swag can be picked up from the main foyer stand before the opening keynote. 
-
 ## Front and back entrances to the main stage
 
 The keynotes are in the *D auditorium*, which is directly across the courtyard
