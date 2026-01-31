@@ -3,8 +3,8 @@ title: "Red Hat"
 level: gold
 image: redhat.png
 link: https://www.redhat.com/
-date: 2025-01-22
-draft: true
+date: 2026-01-30
+draft: false
 ---
 
 
