@@ -12,6 +12,7 @@
 {{ $imageurl = $image.Permalink }}
 {{ end }}
 {{- $.Scratch.Add "index" (dict
+"code" .File.BaseFileName
 "title" .Title
 "link" .Params.link
 "imageurl" $imageurl
