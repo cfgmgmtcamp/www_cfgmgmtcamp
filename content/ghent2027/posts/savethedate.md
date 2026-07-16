@@ -1,5 +1,5 @@
 ---
-title: Save the date for CfgMgmtCamp 2026
+title: Save the date for CfgMgmtCamp 2027
 date: 2026-07-16
 draft: false
 ---
