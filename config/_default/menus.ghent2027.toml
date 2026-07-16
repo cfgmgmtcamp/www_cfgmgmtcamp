@@ -1,0 +1,77 @@
+### navbar
+[[navbar]]
+	name = "About"
+	identifier = "about"
+	url = "/ghent2027/about/"
+	weight = -9000
+#[[navbar]]
+#	name = "Registration"
+#	identifier = "registration"
+#	url = "/ghent2027/registration/"
+#	weight = -8000
+#[[navbar]]
+#	name = "FOSDEM"
+#	identifier = "registration"
+#	url = "https://fosdem.org/2023/schedule/track/infra_management/"
+#	#url = "https://registration.cfgmgmtcamp.be/ghent/2023/"
+#	weight = -7000
+[[navbar]]
+	name = "CfP"
+	identifier = "cfp"
+	url = "https://cfp.cfgmgmtcamp.org/ghent2027/cfp"
+	weight = -6000
+[[navbar]]
+	name = "Sponsors"
+	identifier = "sponsors"
+	url = "/ghent2027/sponsors/"
+	weight = -5000
+#[[navbar]]
+#	name = "Schedule"
+#	identifier = "schedule"
+#	url = "/ghent2027/schedule/"
+#	weight = -4000
+#[[navbar]]
+#	name = "Social"
+#	identifier = "social"
+#	url = "/ghent2027/social/"
+#	weight = -3000
+#[[navbar]]
+#	name = "Women's Lunch"
+#	identifier = "womenislunch"
+#	url = "/ghent2027/womenslunch/"
+#	weight = -2900
+[[navbar]]
+	name = "Location"
+	identifier = "location"
+	url = "/ghent2027/location/"
+	weight = -2000
+[[navbar]]
+	name = "Conduct"
+	identifier = "conduct"
+	url = "/ghent2027/codeofconduct/"
+	weight = -1000
+[[navbar]]
+	name = "Guide"
+	identifier = "guide"
+	url = "/ghent2027/guide/"
+	weight = -900
+[[navbar]]
+	name = "Matrix"
+	identifier = "matrix"
+	url = "/ghent2027/matrix/"
+	weight = -800
+#[[navbar]]
+#	name = "Event App"
+#	identifier = "eventapp"
+#	url = "/ghent2027/eventapp/"
+#	weight = -700
+#[[navbar]]
+#	name = "Online Shop"
+#	identifier = "shop"
+#	url = "https://shop.cfgmgmtcamp.org/"
+#	weight = -200
+[[navbar]]
+	name = "Past"
+	identifier = "past"
+	url = "/ghent2027/pastfuture/"
+	weight = 0
