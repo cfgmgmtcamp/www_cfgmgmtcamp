@@ -29,10 +29,10 @@ local transportation.
 Do not assume that you can stay in Brussels and commute to Ghent. You’ll spend a
 lot of time on the train and you’ll miss all the social events.
 
-# Coming from Fosdem 
+# Coming from Fosdem
 
 If you’re coming from Fosdem and are traveling light, then you may be interested
-in carpooling instead of the train. Please reach out to us on the different social media accounts 
+in carpooling instead of the train. Please reach out to us on the different social media accounts
 for more information and coordination.  Typically we would  meet at the H. Building info booth around 16:30
 
 # Where to stay
@@ -85,7 +85,7 @@ other words, *B.3.039* is building *B*, third floor, room *39*.
 Wifi access will be shared during the conference introduction in the *D auditorium*.
 You’ll want this for the schedule and other such, but please don’t abuse it.
 
-[Open the schedule](https://cfp.cfgmgmtcamp.org/2026/schedule/) on your phone
+[Open the schedule](https://cfp.cfgmgmtcamp.org/2027/schedule/) on your phone
 and/or laptop. Plan ahead which talks, or tracks, or speakers you’re excited to
 see and figure out where the rooms are. Then pay attention around you. If
 schedule changes are required, such as running 15 minutes behind or the like,
@@ -157,8 +157,8 @@ wristband will buy your drinks.
 Ghent is a wonderful place with [a rich nightlife](https://visit.gent.be/en/eat-drink).
 Make some friends and have dinner or meet for drinks. Some of the conference favorites include
 
- * Trollenkelder 
- * Waterhuis 
+ * Trollenkelder
+ * Waterhuis
  * 't Dreupelkot genever bar next door to the Waterhuis. Just don’t spill the genever!
  * Gruut brewery, especially if you’ve never tried gruut
  * Comic Sans pinball arcade

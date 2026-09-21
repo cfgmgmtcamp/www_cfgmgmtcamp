@@ -7,7 +7,7 @@ draft: false
 Configuration Management Camp is the event for technologists interested in Open Source Infrastructure automation and related topics.
 This includes but is not limited to: Open Source Configuration Management, Provisioning, Orchestration, Choreography, Container Operations, and many more topics.
 
-We're pleased to announce CfgMgmtCamp 2026, the eighth year and tenth edition.
+We're pleased to announce CfgMgmtCamp 2027, the eighth year and tenth edition.
 While CfgMgmtCamp has evolved beyond pure configuration management, we are evolving the topics and content of the conference.
 CfgMgmtCamp wants to join all infrastructure management tools and principles to come together to share and learn about infra mgmt.
 
@@ -23,7 +23,7 @@ We are also committed to ensuring the conference is a place where ideas are exch
 ## Events around CfgMgmtCamp ##
 
 Visit two Belgian cities in one trip!
-Configuration Management Camp is held immediately after [FOSDEM](https://fosdem.org/2026/).
+Configuration Management Camp is held immediately after [FOSDEM](https://fosdem.org/).
 More value, more waffles, more beer, and the best community around!
 
 ## Format ##
