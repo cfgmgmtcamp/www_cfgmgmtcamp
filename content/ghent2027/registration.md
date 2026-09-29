@@ -9,4 +9,4 @@ draft: false
 
 <br>
 
-{{< prereg organizer="ghent" event="2027" >}}
+{{< prereg >}}

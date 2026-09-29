@@ -85,7 +85,7 @@ other words, *B.3.039* is building *B*, third floor, room *39*.
 Wifi access will be shared during the conference introduction in the *D auditorium*.
 You’ll want this for the schedule and other such, but please don’t abuse it.
 
-[Open the schedule](https://cfp.cfgmgmtcamp.org/2027/schedule/) on your phone
+[Open the schedule](https://cfp.cfgmgmtcamp.org/{{< param "eventcode" >}}/schedule/) on your phone
 and/or laptop. Plan ahead which talks, or tracks, or speakers you’re excited to
 see and figure out where the rooms are. Then pay attention around you. If
 schedule changes are required, such as running 15 minutes behind or the like,

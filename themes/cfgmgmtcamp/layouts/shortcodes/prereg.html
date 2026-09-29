@@ -1,5 +1,5 @@
-{{ $eventorganizer := .Get "organizer" }}
-{{ $eventcode := .Get "event" }}
+{{ $eventorganizer := site.Params.Organizer }}
+{{ $eventcode := site.Params.Year }}
 
 <div>
 <pretix-widget event="https://registration.cfgmgmtcamp.org/{{ $eventorganizer }}/{{ $eventcode }}/"></pretix-widget>
