@@ -19,5 +19,5 @@ However, there is no set agenda.
 You are welcome to mingle with one another and join the discussions while enjoying lunch.
 
 
-Please indicate your participation by registering during the event [registration](https://cfgmgmtcamp.org/{{< param "eventcode" >}}/registration/) process, select the option for "Women Lunch Registration" on {{< day "monday" >}}.
+Please indicate your participation by registering during the event [registration](registration/) process, select the option for "Women Lunch Registration" on {{< day "monday" >}}.
 If you have already registered for CfgMgmtCamp, [retrieve](https://registration.cfgmgmtcamp.org/{{< param "organizer" >}}/{{< param "year" >}}/resend/) your order links, click on "Change details", and add the Women Lunch option to your registration.
