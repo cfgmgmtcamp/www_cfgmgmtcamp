@@ -9,4 +9,4 @@ draft: false
 
 <br>
 
-{{< pretalx event="ghent2026" >}}
+{{< pretalx >}}
