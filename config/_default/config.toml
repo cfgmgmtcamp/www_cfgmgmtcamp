@@ -14,13 +14,6 @@ pygmentsUseClasses = true
 enableGitInfo = true
 enableRobotsTXT = true
 
-[params]
-	dates = "1-2-3 February 2027"
-	location = "Ghent, Belgium"
-	organizer = "ghent"
-	year = "2027"
-	eventcode = "ghent2027"
-
 [pagination]
 	path = "blog"
 	pagerSize = 12
