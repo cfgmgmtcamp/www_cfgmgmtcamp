@@ -2,6 +2,17 @@
 
 {{ partial "navbar.html" . }}
 
+<header class="small">
+	<div class="inner">
+		<div class="left">
+			<h1>{{ site.Params.Dates }}</h1>
+		</div>
+		<div class="right">
+			<h2>{{ site.Params.Location }}</h2>
+		</div>
+	</div>
+</header>
+
 <section id="main">
 	<div class="inner">
 		<h1>{{ .Title }}</h1>
