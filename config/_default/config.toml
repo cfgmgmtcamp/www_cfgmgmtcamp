@@ -14,6 +14,11 @@ pygmentsUseClasses = true
 enableGitInfo = true
 enableRobotsTXT = true
 
+[params]
+	organizer = "ghent"
+	year = "2027"
+	eventcode = "ghent2027"
+
 [pagination]
 	path = "blog"
 	pagerSize = 12

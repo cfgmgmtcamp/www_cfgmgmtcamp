@@ -10,7 +10,7 @@ There is a networking lunch event on the first day of CfgMgmtCamp for all attend
 * Date: {{< day "monday" >}}
 * Time: 13:00 - 14:00
 * Location: Reserved area in the HoGent Cafeteria
-* Cost: Complimentary 
+* Cost: Complimentary
 * Registration: requested
 
 
@@ -19,5 +19,5 @@ However, there is no set agenda.
 You are welcome to mingle with one another and join the discussions while enjoying lunch.
 
 
-Please indicate your participation by registering during the event [registration](https://cfgmgmtcamp.org/ghent2026/registration/) process, select the option for "Women Lunch Registration" on {{< day "monday" >}}.
-If you have already registered for CfgMgmtCamp, [retrieve](https://registration.cfgmgmtcamp.org/ghent/2026/resend/) your order links, click on "Change details", and add the Women Lunch option to your registration.
+Please indicate your participation by registering during the event [registration](registration/) process, select the option for "Women Lunch Registration" on {{< day "monday" >}}.
+If you have already registered for CfgMgmtCamp, [retrieve](https://registration.cfgmgmtcamp.org/{{< param "organizer" >}}/{{< param "year" >}}/resend/) your order links, click on "Change details", and add the Women Lunch option to your registration.

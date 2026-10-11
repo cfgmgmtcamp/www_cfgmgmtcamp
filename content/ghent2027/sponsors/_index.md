@@ -11,7 +11,7 @@ Sponsorships of all sizes are appreciated.
 
 Many different sponsorship opportunities are available but please contact us if you would like to inquire about a unique package.
 
-Download the sponsor prospectus and let us know which sponsorship option best suits your team.  
+Download the sponsor prospectus and let us know which sponsorship option best suits your team.
 [https://github.com/cfgmgmtcamp/sponsordoc/releases/download/{{< param version >}}/sponsordoc.pdf](https://github.com/cfgmgmtcamp/sponsordoc/releases/download/{{< param version >}}/sponsordoc.pdf)
 
-We thank these sponsors for making Config Management Camp 2027 possible.
+We thank these sponsors for making Config Management Camp {{< param "year" >}} possible.
