@@ -15,5 +15,5 @@ This matrix space is available to extend our live in-person conference and facil
 - Matrix CfgMgmtCamp Space : https://chat.cfgmgmtcamp.org/#/room/#conference:cfgmgmtcamp.org
 - Matrix CfgMgmtCamp General Room : https://chat.cfgmgmtcamp.org/#/room/#general:cfgmgmtcamp.org
 
-[- Matrix CfgMgmtCamp Ghent 2027 Atteendees : https://chat.cfgmgmtcamp.org/#/room/#ghent2027attendees:cfgmgmtcamp.org]: #
+[- Matrix CfgMgmtCamp Ghent {{< param "year" >}} Atteendees : https://chat.cfgmgmtcamp.org/#/room/#{{< param "eventcode" >}}attendees:cfgmgmtcamp.org]: #
 
