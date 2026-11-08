@@ -39,10 +39,14 @@ for more information and coordination.  Typically we would  meet at the H. Build
 
 Don’t look for a place by the conference. Ghent city center is where most
 extracurricular activity will occur and it’s not far. Many people stay at either
-the [Novoteli Gent Centrum](https://all.accor.com/ssr/app/accor/rates/0840/index.en.shtml) or
+the [Novotel Gent Centrum](https://all.accor.com/ssr/app/accor/rates/0840/index.en.shtml) or
 the [NH Collection Gent](https://www.nh-hotels.com/en/hotel/nh-collection-gent) or
 the [Marriot Ghent](https://www.marriott.com/en-us/hotels/gnemc-ghent-marriott-hotel/overview/),
 but there are plenty of other options nearby.
+
+While we do not endorse any hotel, you are free to chose any hotel, we do have a hotel group rate at the Novetel Gent Centrum where many organisers, volunteers and participants stay.
+A single room with no breakfast starts at 141 EUR/night and for 18 EUR extra you get hotel breakfast, and for another 20 EUR you get a double room.
+Please use the attached the [form](/ghent2027/forms/novotel-discount.pdf) for this price.
 
 # Local transportation on the tram or bus
 
